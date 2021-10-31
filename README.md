@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-❤️:Backend/NLP/React
+❤️:Techs
